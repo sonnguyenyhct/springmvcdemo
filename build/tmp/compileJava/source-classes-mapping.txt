@@ -1,0 +1,36 @@
+model/CustomerForm.java
+ model.CustomerForm
+model/Customer.java
+ model.Customer
+model/Product.java
+ model.Product
+model/Category.java
+ model.Category
+controller/CustomerController.java
+ controller.CustomerController
+controller/ProductController.java
+ controller.ProductController
+repository/ProductRepository.java
+ repository.ProductRepository
+service/customer/CustomerService.java
+ service.customer.CustomerService
+service/product/ProductService.java
+ service.product.ProductService
+repository/Repository.java
+ repository.Repository
+service/customer/ICustomerService.java
+ service.customer.ICustomerService
+service/IService.java
+ service.IService
+repository/impl/ProductRepositoryImpl.java
+ repository.impl.ProductRepositoryImpl
+config/AppConfig.java
+ config.AppConfig
+repository/CustomerRepository.java
+ repository.CustomerRepository
+service/product/IProductService.java
+ service.product.IProductService
+config/AppInit.java
+ config.AppInit
+model/Province.java
+ model.Province
